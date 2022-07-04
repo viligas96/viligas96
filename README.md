@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @viligas96
 - 👀 I’m interested in Machine learning, Python, Java
 - 🌱 I’m currently learning leetcode.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on N/A
+- 📫 You can reach me via Email.
 
 <!---
 viligas96/viligas96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
