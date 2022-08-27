@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viligas96
+- 👋 Hi, I’m @viligas96, a current MSCS student at Gatech.
 - 👀 I’m interested in Machine learning, Python, Java
 - 🌱 I’m currently learning leetcode.
 - 💞️ I’m looking to collaborate on N/A
